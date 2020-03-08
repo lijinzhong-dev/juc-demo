@@ -22,6 +22,8 @@ public class lesson {
          System.out.println(Math.pow(2,i-1));
          System.out.println(Math.pow(2,i-1));
          System.out.println(Math.pow(2,i-1));
+
+         System.out.println("ceshi");
      }
 
 }
