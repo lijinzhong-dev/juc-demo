@@ -25,6 +25,9 @@ public class lesson {
 
          System.out.println("ceshi");
          System.out.println("ceshi");
+         System.out.println("ceshi");
+         System.out.println("ceshi");
+         System.out.println("ceshi");
      }
 
 }
